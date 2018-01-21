@@ -1,5 +1,5 @@
 #creating a program where the user creates a user names and password
-#the program lets the user his/her username then password
+#the program lets the user type his/her username then password
 #it then prompts the user to verify what the chose, giving the user 3 chances to retype their correct username/password
 
 print('Create a user name')
