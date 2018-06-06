@@ -1,4 +1,5 @@
 #Plotting production information from severl different states from 2008 - 2017
+source: https://www.eia.gov/dnav/pet/pet_crd_crpdn_adc_mbbl_a.htm
 
 from matplotlib import pyplot as plt
 
